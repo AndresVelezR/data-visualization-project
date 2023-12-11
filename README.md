@@ -4,7 +4,7 @@ This Python project focuses on reading data about world population from a CSV fi
 
 ## Requirements
 
-- Python 3.x
+- Python3
 - Libraries: `matplotlib`, `csv`
 
 ## Installation of Dependencies
