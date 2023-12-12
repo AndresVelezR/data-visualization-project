@@ -16,7 +16,7 @@ This Python project focuses on reading data about world population from a CSV fi
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/AndresVelezR/world-population.git
+- git clone https://github.com/AndresVelezR/data-visualization-project.git
 
 ### 2. Run the Script
 
